@@ -1,0 +1,34 @@
+.entrada{
+    position: relative; 
+    
+}
+
+i{
+    position: absolute;
+    left: 15px;
+  top: 10px;
+}
+
+.form-control {
+    padding-left:40px ;
+}
+.form-select{
+    padding-left:40px ;
+}
+.card{ 
+    padding: 50px;
+    width: 550px;
+   padding: auto;
+   margin-top :40px ;
+
+}
+button{
+    width: 100%;
+}
+.libro{
+    position: relative;
+    top: -30px;
+}
+.archivo{
+    padding-left:40px;
+}
